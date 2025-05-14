@@ -15,4 +15,4 @@ The interactive Tableau dashboard visualizes insights derived from the data:
   * Bar and Line Charts for trend and categorical analysis.
   * Interactive Filters for exploring by region or metric.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
